@@ -2,6 +2,18 @@
 
 Estimate treatment effects in observational data with advanced causal inference, using Augmented Inverse Probability Weighting (AIPW) and multiple benchmarks.
 
+
+# Repository Structure
+
+
+causal-inference-dr/
+  ├── data/
+  │    └── observational_dataset.csv 
+  ├── causal_inference_dr.py
+  ├── report.md
+  └── README.md
+
+
 ## Usage
 
 1. Place your data as `data/observational_dataset.csv`.
