@@ -7,11 +7,11 @@ Estimate treatment effects in observational data with advanced causal inference,
 
 
 causal-inference-dr/
-  ├── data/
-  │    └── observational_dataset.csv 
-  ├── causal_inference_dr.py
-  ├── report.md
-  └── README.md
+├── data/
+│ └── observational_dataset.csv
+├── causal_inference_dr.py
+├── report.md
+└── README.md
 
 
 ## Usage
